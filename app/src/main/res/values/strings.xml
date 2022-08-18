@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OWatch</string>
+    <string name="HumidityTitle">湿度</string>
+    <string name="TemperatureTitle">温度</string>
+    <string name="TemperatureDefaultText" translatable="false">00.00℃</string>
+    <string name="HumidityDefaultText" translatable="false">00.00%</string>
+    <string name="LastUpdatedDefaultText">LastUpdated</string>
+    <string name="Title">我的房间</string>
+</resources>
